@@ -1,13 +1,7 @@
 <h2 align="center">PySoNet by Django</h2>
 
-Социальная сеть на Django Rest Framework.
+Социальная сеть на Django Rest Framework
 
-**Ссылки**:
-- [Сайт](https://djangochannel.com)
-- [YouTube](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqSxUpnTBObEP21cFQxNJ7C)
-- [Telegram](https://t.me/trueDjangoChannel)
-- [Группа в VK](https://vk.com/djangochannel)
-- [Поддержать проект](https://donatepay.ru/don/186076)
 ### Инструменты разработки
 
 **Стек:**
@@ -81,8 +75,7 @@
 
 [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
 
-Copyright (c) 2020-present, DJWOMS - Omelchenko Michael
-
+Copyright (c) 2020-present, dzen
 
 
 
